@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gusdirga
 - 👀 I’m interested in become a fullstack developer
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
